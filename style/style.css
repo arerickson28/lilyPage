@@ -12,7 +12,7 @@ p {
 }
 
 a {
-    color: rgb(106, 183, 235) ;
+    color: navy ;
 }
     
 #bannerImage {
@@ -60,19 +60,19 @@ i {
 #bannerImage h2 {
     margin-right: 75px ;
     padding: 8px ;
-    background-color: white ;
-    color: rgb(106, 183, 235) ;
+    background-color: lightpink ;
+    color: navy ;
 }
 
 h4 {
     margin: 0px ;
-    color:rgb(106, 183, 235) ;
+    color: navy ;
 }
 
 #bannerImage h1 {
     margin: 0px ;
-    background-color: white ;
-    color: rgb(106, 183, 235) ;
+    background-color: lightpink;
+    color: navy ;
     display: inline ;
     text-align: center ;
     padding: 10px ;
@@ -80,7 +80,7 @@ h4 {
 
 
 header {
-    background-color: white ;
+    background-color: lightpink ;
     display: flex ;
     justify-content: center ;
     align-items: center ;
@@ -101,12 +101,12 @@ header ul li {
 footer {
     display: flex ;
     justify-content: center ;
-    background-color: white ;
+    background-color: lightpink ;
     align-items: center ;
 }
 
 i {
-    color: rgb(106, 183, 235) ;
+    color: navy ;
 }
 
 #githubIcon {
